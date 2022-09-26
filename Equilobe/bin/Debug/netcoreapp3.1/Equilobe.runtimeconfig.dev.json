@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\perdana\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\perdana\\.nuget\\packages"
+    ]
+  }
+}
