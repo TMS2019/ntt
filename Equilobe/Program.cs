@@ -47,6 +47,16 @@ namespace Equilobe
 
             Console.WriteLine("3. View all parked cars");
 
+            Console.WriteLine("4. Number of lots filled is required");
+
+            Console.WriteLine("5. Number of lots available is required");
+
+            Console.WriteLine("6. Number of vehicles based on odd and even vehicle numbers.");
+
+            Console.WriteLine("7. Number of vehicles based on the type of vehicle");
+
+            Console.WriteLine("8. Number of vehicles based on the color of the vehicle");
+
             switch (Console.ReadLine())
             {
                 case "1":

@@ -740,11 +740,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\perdana\\Desktop\\insura\\ParkingManagement-master\\Equilobe.DAL\\Equilobe.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\perdana\\Desktop\\insura\\repo\\ntt\\Equilobe.DAL\\Equilobe.DAL.csproj",
       "projectName": "Equilobe.DAL",
-      "projectPath": "C:\\Users\\perdana\\Desktop\\insura\\ParkingManagement-master\\Equilobe.DAL\\Equilobe.DAL.csproj",
+      "projectPath": "C:\\Users\\perdana\\Desktop\\insura\\repo\\ntt\\Equilobe.DAL\\Equilobe.DAL.csproj",
       "packagesPath": "C:\\Users\\perdana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\perdana\\Desktop\\insura\\ParkingManagement-master\\Equilobe.DAL\\obj\\",
+      "outputPath": "C:\\Users\\perdana\\Desktop\\insura\\repo\\ntt\\Equilobe.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\perdana\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -758,11 +758,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\perdana\\Desktop\\insura\\ParkingManagement-master\\Equilobe.BLL\\Equilobe.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\perdana\\Desktop\\insura\\repo\\ntt\\Equilobe.BLL\\Equilobe.BLL.csproj",
       "projectName": "Equilobe.BLL",
-      "projectPath": "C:\\Users\\perdana\\Desktop\\insura\\ParkingManagement-master\\Equilobe.BLL\\Equilobe.BLL.csproj",
+      "projectPath": "C:\\Users\\perdana\\Desktop\\insura\\repo\\ntt\\Equilobe.BLL\\Equilobe.BLL.csproj",
       "packagesPath": "C:\\Users\\perdana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\perdana\\Desktop\\insura\\ParkingManagement-master\\Equilobe.BLL\\obj\\",
+      "outputPath": "C:\\Users\\perdana\\Desktop\\insura\\repo\\ntt\\Equilobe.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\perdana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -779,8 +779,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\perdana\\Desktop\\insura\\ParkingManagement-master\\Equilobe.DAL\\Equilobe.DAL.csproj": {
-              "projectPath": "C:\\Users\\perdana\\Desktop\\insura\\ParkingManagement-master\\Equilobe.DAL\\Equilobe.DAL.csproj"
+            "C:\\Users\\perdana\\Desktop\\insura\\repo\\ntt\\Equilobe.DAL\\Equilobe.DAL.csproj": {
+              "projectPath": "C:\\Users\\perdana\\Desktop\\insura\\repo\\ntt\\Equilobe.DAL\\Equilobe.DAL.csproj"
             }
           }
         }
