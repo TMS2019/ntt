@@ -86,5 +86,30 @@ namespace Equilobe.BLL.Services
         {
             return _parkingContext.Cars.ToList();
         }
+
+        public List<Car> GetNumberCarsTotalLot()
+        {
+            return _parkingContext.Cars.ToList();
+        }
+
+        public List<Car> GetNumberCarsavailable()
+        {
+            return _parkingContext.Cars.ToList();
+        }
+
+        public List<Car> GetNumberCartotalGenapDanGanjil()
+        {
+            return _parkingContext.Cars.ToList();
+        }
+
+        public List<Car> GetNumberCarsTotalBerdasarkanJenis()
+        {
+            return _parkingContext.Cars.ToList();
+        }
+
+        public List<Car> GetNumberCarsTotalBerdasarkanWarna()
+        {
+            return _parkingContext.Cars.ToList();
+        }
     }
 }
