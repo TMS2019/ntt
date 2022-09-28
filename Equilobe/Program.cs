@@ -68,6 +68,28 @@ namespace Equilobe
                 case "3":
                     ShowAllCars(parkingService);
                     return true;
+
+                case "4":
+                    ShowAllCars1(parkingService);
+                    return true;
+
+                case "5":
+                    ShowAllCars2(parkingService);
+                    return true;
+
+                case "6":
+                    ShowAllCars3(parkingService);
+                    return true;
+
+                case "7":
+                    ShowAllCars4(parkingService);
+                    return true;
+
+                case "8":
+                    ShowAllCars5(parkingService);
+                    return true;
+
+
                 default:
                     return false;
             }
@@ -104,6 +126,57 @@ namespace Equilobe
             var json = JsonConvert.SerializeObject(allCars, Formatting.Indented);
 
             Console.WriteLine(json);
+
+            Console.ReadKey();
+        }
+
+        private static void ShowAllCars1(IParkingService parkingService)
+        {
+            List<Car> allCars = parkingService.GetAllCars();
+            var json = JsonConvert.SerializeObject(allCars, Formatting.Indented);
+
+            Console.WriteLine("Number of lots filled is required.=");
+
+            Console.ReadKey();
+        }
+
+        private static void ShowAllCars2(IParkingService parkingService)
+        {
+            List<Car> allCars = parkingService.GetAllCars();
+            var json = JsonConvert.SerializeObject(allCars, Formatting.Indented);
+
+            Console.WriteLine("Number of lots available is required");
+
+            Console.ReadKey();
+        }
+
+        private static void ShowAllCars3(IParkingService parkingService)
+        {
+            List<Car> allCars = parkingService.GetAllCars();
+            var json = JsonConvert.SerializeObject(allCars, Formatting.Indented);
+
+            Console.WriteLine("Number of vehicles based on odd and even vehicle numbers");
+
+            Console.ReadKey();
+        }
+
+        private static void ShowAllCars4(IParkingService parkingService)
+        {
+            List<Car> allCars = parkingService.GetAllCars();
+            var json = JsonConvert.SerializeObject(allCars, Formatting.Indented);
+
+            Console.WriteLine("Number of vehicles based on the type of vehicle");
+ 
+
+            Console.ReadKey();
+        }
+
+        private static void ShowAllCars5(IParkingService parkingService)
+        {
+            //List<Car> allCars = parkingService.GetAllCars();
+            //var json = JsonConvert.SerializeObject(allCars, Formatting.Indented);
+            
+            Console.WriteLine("Number of vehicles based on the color of the vehicle");
 
             Console.ReadKey();
         }

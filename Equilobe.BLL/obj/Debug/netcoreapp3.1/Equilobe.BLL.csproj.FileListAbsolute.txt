@@ -23,3 +23,16 @@ C:\Users\perdana\Downloads\ParkingManagement-master\ParkingManagement-master\Equ
 C:\Users\perdana\Downloads\ParkingManagement-master\ParkingManagement-master\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.csproj.CopyComplete
 C:\Users\perdana\Downloads\ParkingManagement-master\ParkingManagement-master\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.dll
 C:\Users\perdana\Downloads\ParkingManagement-master\ParkingManagement-master\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.pdb
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\bin\Debug\netcoreapp3.1\Equilobe.BLL.deps.json
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\bin\Debug\netcoreapp3.1\Equilobe.BLL.dll
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\bin\Debug\netcoreapp3.1\Equilobe.BLL.pdb
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\bin\Debug\netcoreapp3.1\Equilobe.DAL.dll
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\bin\Debug\netcoreapp3.1\Equilobe.DAL.pdb
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.csproj.AssemblyReference.cache
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.AssemblyInfoInputs.cache
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.AssemblyInfo.cs
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.csproj.CoreCompileInputs.cache
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.csproj.CopyComplete
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.dll
+C:\Users\perdana\Desktop\insura\repo\ntt\Equilobe.BLL\obj\Debug\netcoreapp3.1\Equilobe.BLL.pdb

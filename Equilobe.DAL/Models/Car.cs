@@ -8,7 +8,9 @@ namespace Equilobe.DAL.Models
 {
     public class Car
     {
+      
         public int Id { get; set; }
+        [Required]
         public string RegNo { get; set; }
         public DateTime StartDate { get; set; }
 
